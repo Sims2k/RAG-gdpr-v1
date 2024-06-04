@@ -1,0 +1,10 @@
+What are the essential security measures for effective teleworking under GDPR?
+What organizational measures should be taken to ensure compliance with the GDPR in terms of data security?
+What technical measures are essential for ensuring the security of personal data under GDPR?
+What are the essential technical measures to secure equipment and workstations for protecting personal data?
+How should an organization protect its premises to ensure the security of personal data?
+How should an organization implement user authentication to protect personal data under GDPR requirements?
+How should an organization manage user authorizations to ensure data security under GDPR?
+What is pseudonymisation and how should it be implemented under GDPR?
+How does encryption and hash functions contribute to GDPR compliance?
+What does data anonymisation involve under GDPR, and how is it distinguished from pseudonymisation?
