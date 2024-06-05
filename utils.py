@@ -27,6 +27,8 @@ def get_hf_api_key():
     return os.getenv("HUGGINGFACE_API_KEY")
 
 
+print("HUGGINGFACE_API_KEY: ", get_hf_api_key())
+
 # def get_openai_api_key():
 #     _ = load_dotenv(find_dotenv())
 
